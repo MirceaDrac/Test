@@ -1,0 +1,7 @@
+﻿The first part of the test took more time as I was searching for a better implementation for the algorithm. Because of the 
+levels restrictions I have decided to leave it as you can find it now. The second part took less than expected thanks to 
+the tools I have used in the process.
+
+The estimated time was 3 hours and I was able to almost fit into it as it took me 15 minutes more
+
+As I have treated this as a speed test I have neglected unit testing and architectural design.

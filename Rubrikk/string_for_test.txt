@@ -1,0 +1,610 @@
+<trovit>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/lancaster-gardens-wolverhampton-wv4-4dn/2437495?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[3 Bed Detached house for Sale]]></title>
+  <id><![CDATA[2437495]]></id>
+  <content><![CDATA[Incredibly deceptive! semi-detached Bungalow offering surprisingly roomy accommodation on an unusually generous plot with absolutely superb rear garden to delight the enthusiast. Enlarged layout of particularly versatile design, comfortably appointed and presented most attractively. Porch and Hall. Lounge with fireplace, open plan to Dining Room (29 ft. overall). Neatly fitted Kitchen. Garden Room incorporating Laundry area. Sitting Room/Study. Two ground floor Bedrooms, both with wardrobes. Fully fitted Bathroom plus additional fully fitted Shower Room. First floor Bedroom three. Partial gas-fired central heating. Double glazed windows. Driveway parking facilities. Beautifully landscaped garden with many appealing features including Summerhouse and ornament pool with waterfall etc etc. MUST BE SEEN!
+
+]]></content>
+  <postcode><![CDATA[WV4 4DN]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[41 Lancaster Gardens  ]]></address>
+  <city><![CDATA[WOLVERHAMPTON]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-2.156380]]></longitude>
+  <latitude><![CDATA[52.561400]]></latitude>
+  <property_type><![CDATA[Detached house]]></property_type>
+  <rooms><![CDATA[3]]></rooms>
+  <price currency="GBP">224950.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/f1a871e2f9f8053286082e50d8528ca9.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/3390c1d9ccfe55451a16a916355e18de.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/28357ae87854e1b58be24bbb2ef15677.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/a9d61d7e7f0dd674e4b5855a3d1cbb4c.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/34a3873acec9526f8c0d3f3b64448421.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/5663f2982e23f1a085cbfc5e81c1d615.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/800d48fb6e4766f5dea7e1bd093d665e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/55a3e1e67491ede27ad09a0d389215ca.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/d5489d1993279e75c6a6e13510e78b9e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/161762ebee31f20af98d0eee5fee4fab.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/4cce8ca4d105a31678d7365af47b9fa9.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/9f59e0f7ec570e7ae0cd4da86a09a02e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/d2cc8f3943fefe3d6d2d11ad114af3d0.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/4c251fc5476db9ad3aa0b4624d2a86be.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/a9515553fcb12b00ecf121a49a16ea21.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Detached house]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/trevelyan-crescent-stratford-upon-avon-cv37-9ll/2436329?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[2 Bed Not specified for Sale]]></title>
+  <id><![CDATA[2436329]]></id>
+  <content><![CDATA[A nicely presented two double bedroom first floor maisonette with garage in a block.
+
+The accommodation briefly comprises a sitting / dining room, fitted kitchen, two double bedrooms and a shower room.
+
+Further benefits include double glazed windows, gas central heating and a garage in a block. The property is offered for sale with no onward chain and would be ideal for either an investment or first time buyer. 
+]]></content>
+  <postcode><![CDATA[CV37 9LL]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[27 Trevelyan Crescent  ]]></address>
+  <city><![CDATA[STRATFORD-UPON-AVON]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-1.733220]]></longitude>
+  <latitude><![CDATA[52.200500]]></latitude>
+  <property_type><![CDATA[Not specified]]></property_type>
+  <rooms><![CDATA[2]]></rooms>
+  <price currency="GBP">165000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/2acfbb0eb963d16e72419452cd07650d.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/5cc859ea5f80c37a1ef8bcbec1bc649b.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/784de786464a909cfcfc2f7e0323ab1d.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/f495863c76cf4b4207a616930ecf0178.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/9de2b16485fb4284e3f55068a7483fff.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/39d389085f8e704f9fa5dafcd1d286e0.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Not specified]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/rockbourne-road-hook-rg27-0af/1683110?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[ Not specified for Sale]]></title>
+  <id><![CDATA[1683110]]></id>
+  <content><![CDATA[]]></content>
+  <postcode><![CDATA[RG27 0AF]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[28/11/2015]]></date>
+  <address><![CDATA[113 Rockbourne Road  ]]></address>
+  <city><![CDATA[HOOK]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-1.051390]]></longitude>
+  <latitude><![CDATA[51.301700]]></latitude>
+  <property_type><![CDATA[Not specified]]></property_type>
+  <rooms><![CDATA[]]></rooms>
+  <price currency="GBP">365000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/37b5f329b8dab8afab348f5f14349ff0.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Not specified]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/lancaster-avenue-bedford-mk42-9se/2437491?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[3 Bed Semi-detached house for Sale]]></title>
+  <id><![CDATA[2437491]]></id>
+  <content><![CDATA[This established bay fronted semi detached home has been enlarged to the side and rear to offer fantastic open plan style living. The much improved and well presented accommodation features a wrap around extension to the ground floor which provides a large open plan kitchen/diner, ideal for families and entertaining with doors leading out to the generous sized rear garden.  There are three bedrooms, two doubles with built-in full width wardrobes, family bathroom, bay fronted separate sitting room, downstairs shower room, family room/study, utility room and integral garage which could be converted (STPP). Outside, there is off road parking at the front with a recently laid driveway, side gated access to the well established rear garden with fruit trees and decked seating area, which has been made longer byÂ acquisition of a neighbouring garden. The property isÂ located to the south of the town, providing easy access to the southern bypass and isÂ well positioned within this residential area with a range of shops and amenities in close proximity, including the Bedford Academy School. This property is one not to be missed and you must book a viewing to fully appreciate all it has to offer.]]></content>
+  <postcode><![CDATA[MK42 9SE]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[6 Lancaster Avenue  ]]></address>
+  <city><![CDATA[BEDFORD]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-0.463563]]></longitude>
+  <latitude><![CDATA[52.121200]]></latitude>
+  <property_type><![CDATA[Semi-detached house]]></property_type>
+  <rooms><![CDATA[3]]></rooms>
+  <price currency="GBP">320000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/faa5fee45a4f614c455dd9be77d012b1.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/da16285f296601646f7136793df2ace7.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/0471afbb40e1ddceaef4b1b89ab67cb7.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/be75ff44f234c64ba090bc834f0dcfcf.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/901038a8672d7b9579cafd6d93211434.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/23f97186f43a7c422f4cf957f06403b9.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/78e4596dcbbbc392ce7528d527c40097.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/e80fc2a91897b634b2a4bb7e35ee605a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/13bf1af67879787928d0f434c8f82f54.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/fd9c33fe86c47191ca8d557dc3d26593.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/27431a1935590a4c588816e52fd9d296.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/ac88b9600f1f9ab06bc2c9ce7c98ae53.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/e222fde229fe4c4d572d6d5435520a2a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/c2a3259751b6a95993e340fa47cae201.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/32ff70ce12c8fc140fc916f56c767c58.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Semi-detached house]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/courtland-grove-london-se28-8pa/2437490?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[2 Bed Detached house for Sale]]></title>
+  <id><![CDATA[2437490]]></id>
+  <content><![CDATA[** Open Viewing Saturday 18th June** Able Estates are delighted to act as the Vendor`s Sole Agent for this Two Bedroom Link Detached House with Garage situated in North Thamesmead and close to local Bus Routes and Schools.   Comprising Entrance Porch, Reception Room, Kitchen, Two Bedrooms, Family Bathroom and rear Garden.  Benefits include Gas Central Heating (not tested), Double Glazing, Off Street Parking, Garden and Garage.
+
+Reception Room - 15'1" (4.6m) x 11'6" (3.51m)
+
+Kitchen - 11'6" (3.51m) x 9'9" (2.97m)
+
+Master Bedroom - 10'0" (3.05m) x 7'0" (2.13m)
+
+Bedroom Two - 9'10" (3m) x 8'6" (2.59m)
+
+Directions
+From our Abbey Wood Office, proceed over Harrow Manorway, at the third roundabout turn right into Crossway, at the next roundabout turn into Summerton Way and right into Courtland Grove.
+
+Notice
+Please note we have not tested any apparatus, fixtures, fittings, or services. Purchasers must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.
+
+]]></content>
+  <postcode><![CDATA[SE28 8PA]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[25 Courtland Grove  ]]></address>
+  <city><![CDATA[LONDON]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[0.131382]]></longitude>
+  <latitude><![CDATA[51.507200]]></latitude>
+  <property_type><![CDATA[Detached house]]></property_type>
+  <rooms><![CDATA[2]]></rooms>
+  <price currency="GBP">270000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/b51016a82cb683eb7459607f346d75c2.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/b0f71d3434560f10c0e51241e5061fd0.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/13fd2f133b8313046114a060a50d5e7e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/82b2cb4da2eb6239a700058d41dd92bd.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/c013da346875ceff6e2ad356a911e81a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/80d0707310b0157c5aa466e78bb8bac1.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/256dbc7aa8df494d6db1033aae333a7f.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/d9c0ea835481c5a553e3522fd7433f6e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/edd93548980ae90dfce6741891430f7c.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Detached house]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/west-street-erith-da8-1aw/2437489?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[1 Bed Flat for Sale]]></title>
+  <id><![CDATA[2437489]]></id>
+  <content><![CDATA[GUIDE PRICE OF Â£160 - 170,000. Offered with the benefit of NO CHAIN is this 1 Bedroom Ground Floor flat that is located on a popular development. The property is within walking distance of Erith Town Centre and Shops plus Erith Train Station ( zone 6 ) which can get you into the London Stations in approximately 40 minutes.
+
+Once you are past the Entry Phone System you will find a Newly Decorated Communal Hallway, proceed through the where you will find your flat. Step inside to find an ; Entrance Hall, Double Bedroom, Bathroom & Kitchen & a15 ` 6  x 12 Reception Room.
+
+The property also benefits from Economy 7 heating, Entry Phone System & Residents Parking to the rear.
+
+The Vendor has advised us that the lease is 105 years long and has a monthly service charge of Â£110.00 plus a yearly Ground Rent of Â£200.00.
+
+If you have any questions or you would like to book a viewing then please call us and we will be happy to help.
+
+Lounge - 15'6" (4.72m) x 12'0" (3.66m)
+
+Ki...oakroom (2.1 x 2.1m).
+Leading onto en-suite (2.3 x 2.1m). En-suite - Contemporary 3 piece executive suite with toilet/sink and large shower. Luxury porcelain tiles. Floor to ceiling tiles. 
+
+External: 
+Tarmac driveway/parking area to the front of the property with pathway leading to the rear patio area where there is a private garden accessed via a gate. Rear: Shiplap fencing 1.8 meter high to enclose rear garden. Spacious rear patio area leading onto the lawn at the end of which is a good standard garden shed (2.0 X 2.5m). High standard paving throughout. Grey water recycling system fitted to reduce water usage. 
+
+Tenure: Freehold.]]></content>
+  <postcode><![CDATA[SA17 4UX]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[16 Llys Y Foryd  ]]></address>
+  <city><![CDATA[KIDWELLY]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-4.314010]]></longitude>
+  <latitude><![CDATA[51.733700]]></latitude>
+  <property_type><![CDATA[Semi-detached house]]></property_type>
+  <rooms><![CDATA[3]]></rooms>
+  <price currency="GBP">147000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/78a63b274d1859eaded1813a27c587cd.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Semi-detached house]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/rainbow-drive-liverpool-l26-7ag/2436467?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[2 Bed Terraced House for Sale]]></title>
+  <id><![CDATA[2436467]]></id>
+  <content><![CDATA[Perfect for first time buyers, couples, people looking to downsize or an investor looking for rental income. Well kept, consisting of a beautiful spacious living room, leading to a lovely back garden, two large bedrooms and a spacious drive. Property is near Halewood train station for commutes to Manchester or Liverpool, regular bus service and hunts cross train station to Liverpool and southport.]]></content>
+  <postcode><![CDATA[L26 7AG]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[77 Rainbow Drive  ]]></address>
+  <city><![CDATA[LIVERPOOL]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-2.834970]]></longitude>
+  <latitude><![CDATA[53.368900]]></latitude>
+  <property_type><![CDATA[Terraced House]]></property_type>
+  <rooms><![CDATA[2]]></rooms>
+  <price currency="GBP">105000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/c3b4ede241c3bc7627f34c3321ee4906.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/55049c373411d6a3a9affc4e39a6500d.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/03c275bae44b3e36aba310e06f210a85.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/b0e26d14e7dd7b1c9ec1fbb4fd68243a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/28bd13ab5fbb81f8521586e3a5fab286.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/089047df91eed948f00faf7e25ad0b9f.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/a48298f7a230306ee94518c1695929c5.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/2292b2dfeac5f90a588bec8bb665885e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/fd91826efd76a65231407f477a0c12f7.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/1cd97739ffec3f22f82af6a1fc5f5f2f.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/c444200291dee6e169c32a48b0e9fb85.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Terraced House]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/david-street-cardigan-sa43-3ht/2436466?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[4 Bed Terraced House for Sale]]></title>
+  <id><![CDATA[2436466]]></id>
+  <content><![CDATA[Lovely house. Two reception rooms. (Fireplace in one, wood burner flue in the other.) The kitchen overlooks a large sunny terrace.
+Three bedrooms in the house. The large cabin in the garden, currently a 4th bedroom, could be a studio/workspace. 
+Bathroom with shower. The garden is a total haven, with vegetable beds, herbs, shrubs and trees. Large wood/tool store. Rear entrance over a pretty stream to street parking.]]></content>
+  <postcode><![CDATA[SA43 3HT]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[8 David Street  ]]></address>
+  <city><![CDATA[CARDIGAN]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-4.678320]]></longitude>
+  <latitude><![CDATA[52.080900]]></latitude>
+  <property_type><![CDATA[Terraced House]]></property_type>
+  <rooms><![CDATA[4]]></rooms>
+  <price currency="GBP">146000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/cfc210aa4aedee1d53d9be8fa65c5b94.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/c5cbee44fc40648b4b125183d98e8a9c.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/3c0194cb5d9db3f74b15676d95b66f6d.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/fa6eba0822960f6922e3bc1827e7721b.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/d56c37c4ea250fe86d805f6aac64417a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/969c527ce5ef568e05fdd5f803149fba.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/938c241af4ed184a89e3d5d91d29a877.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/2928c3474a16a6b35db9616e92853e32.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/1ad3743f1614244f817af219829a8b32.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/445165dd8be38053a96074fd6accd7ae.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/e2a0d7dd3c0867a7b641e3bf9109c7c3.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/156386435d2b4f5d7976040374574733.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/9955f970a22ad5e9aa6ebcdadd25f46b.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/ed27ee4acb8338406729ad0a3c6be64a.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/cac09117e708fd9d0c670ee682973b30.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Terraced House]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/lorna-road-hove-bn3-3ep/2436461?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[1 Bed Flat for Sale]]></title>
+  <id><![CDATA[2436461]]></id>
+  <content><![CDATA[<strong></strong> <strong></strong> Wow..... At last you have the opportunity to purchase this delightful top floor one bedroom flat which has been tastefully modernised by the current owner, yet is also perfect for putting your own touch on.
+
+
+This property is perfect for either a first time or investment buyer and it is located in a highly sought after location close to the centre of Hove. 
+
+
+If you need to commute into London or Gatwick then you are only a stone's throw away from Hove's mainline station. 
+
+
+Why not take a short stroll into town and really soak up Brighton & Hove's cosmopolitan atmosphere by exploring around the wide range of bars, restaurants and shops available. This City is really known for its entertainment and lifestyle. Â 
+
+<strong>ENTRANCE</strong> <strong>HALL</strong> <strong></strong> Â 
+
+<strong>LOUNGE</strong> <strong>13' 1 into bay" x 10' 6 max" (3.99m x 3.2m)</strong> Â 
+
+<strong>BEDROOM</strong> <strong>11' 9 max" x 11' 2 max" (3.58m x 3.4m)</strong> Â 
+
+<strong>KITCHEN</strong> <strong>8' 6" x 5' 11" (2.59m x 1.8m)</strong> Â 
+
+<strong>BATHROOM</strong> <strong></strong>]]></content>
+  <postcode><![CDATA[BN3 3EP]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[35 Lorna Road  ]]></address>
+  <city><![CDATA[HOVE]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-0.160040]]></longitude>
+  <latitude><![CDATA[50.832600]]></latitude>
+  <property_type><![CDATA[Flat]]></property_type>
+  <rooms><![CDATA[1]]></rooms>
+  <price currency="GBP">215000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/67bebfca4911f8579237bc56e9fd7ee0.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/8adc7bbe39e2c993e253f87f1df26772.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/8ddb8094623d649ab3cc2daa6eb1b9b4.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/ed0afc101389c0ae17ac6e8649ee146e.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/aef350477c14f947d06cf55938e68b08.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/4f07e5851c53588c39a96b16209622e7.jpg]]></picture_url>
+   </picture>
+  </pictures>
+  <property_type><![CDATA[Flat]]></property_type>
+ </ad>
+ <ad>
+  <segmentation_text><![CDATA[agency sales]]></segmentation_text>
+  <url><![CDATA[https://www.thehouseshop.com/property-for-sale/links-drive-consett-dh8-5xd/2436460?utm_source=trovit&utm_medium=feed]]></url>
+  <title><![CDATA[4 Bed Detached house for Sale]]></title>
+  <id><![CDATA[2436460]]></id>
+  <content><![CDATA[We are delighted to offer for sale this impressive detached family home situated in a pleasant position within the popular Links estate in Shotley Bridge.
+
+Built in 1999, the property has the benefit of UPVC double glazing, gas central heating and a conservatory extension. The accommodation is well proportioned, with a welcoming entrance hall providing access to the lounge, which has a bay window and double doors to a dining room, conservatory and a spacious kitchen/breakfast room which has French doors into the garden. There is also has a separate utility room which leads through to the garage.  To the first floor, the  landing leads to the master bedroom with a dressing area and en-suite shower room. There are three further bedrooms and the family shower room w.c. There are attractive lawned gardens to the front and rear (rear on 2 levels), with a path providing access around the house, and a double driveway which provides additional parking.
+
+The Links is a modern but well established family-orientated estate situated in a desirable location on the border of Blackhill and Shotley Bridge and close to the Derwent Walk. It is within a quarter of a mile of local shops and amenities in Blackhill, and is approximately a mile from Consett town centre, where there are further facilities available. There are good road links to Consett and the outlying villages, as well as the regional centres of Durham and Tyneside via the A691 and A692 highways.
+
+Ground Floor  
+
+Entrance Hallway  
+
+Lounge18'3" x 11'9" (5.56m x 3.58m).  Feature fireplace with gas fire, coving, coving, two radiators, Karndean flooring.
+
+Dining Room11'9" x 8'9" (3.58m x 2.67m).  Radiator, coving, Karndean flooring, patio doors.
+
+Conservatory10'11" x 9'7" (3.33m x 2.92m).  Radiator, laminate flooring, French doors.
+
+Kitchen15'5" x 9'9" (4.7m x 2.97m).  Fitted with a range of floor and wall units with complementing work-tops, stainless steel sink unit, built in oven and hob, extractor, dishwasher, radiator, French doors.
+
+Garage8'8" x 10'6" (2.64m x 3.2m).  
+
+Utility5'8" x 8'8" (1.73m x 2.64m).  Plumbing for washing machine, central heating boiler.
+
+First Floor  
+
+Bedroom one11'8" x 10'11" (3.56m x 3.33m).  Laminate flooring, built in wardrobes, radiator, dressing area with built in wardrobes.
+
+Ensuite9'2" x 5'5" (2.8m x 1.65m).  Panelled bath, w.c., table top hand basin, fully tiled walls, recessed spotlights, radiator.
+
+Bedroom two10'10" x 8'8" (3.3m x 2.64m).  Radiator, laminate flooring, built in wardrobes.
+
+Bedroom three9'6" x 7'2" (2.9m x 2.18m).  Radiator, laminate flooring, built in wardrobes.
+
+Bedroom four7'2" x 6'6" (2.18m x 1.98m).  Laminate flooring, radiator.
+
+Shower room8'4" x 5'5" (2.54m x 1.65m).  Shower cubicle with  mains fed shower,  wash hand basin, w.c., fully tiled walls, ceramic tiled flooring, heated towel rail, extractor.
+
+Garden  Garden to rear on two levels with lawn and patio.
+
+]]></content>
+  <postcode><![CDATA[DH8 5XD]]></postcode>
+  <is_new><![CDATA[]]></is_new>
+  <expiration_date><![CDATA[28/06/2016]]></expiration_date>
+  <date><![CDATA[14/06/2016]]></date>
+  <address><![CDATA[22 Links Drive  ]]></address>
+  <city><![CDATA[CONSETT]]></city>
+  <region><![CDATA[]]></region>
+  <longitude><![CDATA[-1.841880]]></longitude>
+  <latitude><![CDATA[54.865500]]></latitude>
+  <property_type><![CDATA[Detached house]]></property_type>
+  <rooms><![CDATA[4]]></rooms>
+  <price currency="GBP">245000.00</price>
+  <bathrooms><![CDATA[]]></bathrooms>
+  <type><![CDATA[For Sale]]></type>
+  <pictures>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/cfa059d1cc05eb3ee43b67da04236957.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/e74601b6929536b1992b2b251f69e6cc.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/9f89f2ed8a4aaf8842c471161afb8425.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/99014ff60a2878f379c0f035b327548c.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/bae925147f9427580e3cc6f344a6d9f5.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/82cb0dab1ea2f708c45d41bb70237cf0.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/7753319e58bd06275c49eb30f899cb72.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/330881b4c66d39a649ea4166d88a78a4.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/23b6cb57183e244d3c70d0ae5ae0461f.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/6f31068dd8e9cfa80dff1c064b4b3abc.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url><![CDATA[https://pdmllp.s3.amazonaws.com/47e703448d6d5c2935f368996283d604.jpg]]></picture_url>
+   </picture>
+   <picture>
+    <picture_url></picture_url></picture></pictures></ad></trovit>

@@ -1,0 +1,797 @@
+﻿{
+  "1": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Winter is Coming",
+      "number": 1,
+      "season": 1,
+      "release_date": "2011-04-17"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Kingsroad",
+      "number": 2,
+      "season": 1,
+      "release_date": "2011-04-24"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Lord Snow",
+      "number": 3,
+      "season": 1,
+      "release_date": "2011-05-01"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Cripples, Bastards, and Broken Things",
+      "number": 4,
+      "season": 1,
+      "release_date": "2011-05-08"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Wolf and the Lion",
+      "number": 5,
+      "season": 1,
+      "release_date": "2011-05-15"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "A Golden Crown",
+      "number": 6,
+      "season": 1,
+      "release_date": "2011-05-22"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "You Win or You Die",
+      "number": 7,
+      "season": 1,
+      "release_date": "2011-05-29"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Pointy End",
+      "number": 8,
+      "season": 1,
+      "release_date": "2011-06-05"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Baelor",
+      "number": 9,
+      "season": 1,
+      "release_date": "2011-06-12"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Fire and Blood",
+      "number": 10,
+      "season": 1,
+      "release_date": "2011-06-19"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Inside Game of Thrones",
+      "number": 0,
+      "season": 1,
+      "release_date": "2010-12-05"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "15-Minute Preview",
+      "number": 0,
+      "season": 1,
+      "release_date": "2011-04-03"
+    }
+  ],
+  "2": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The North Remembers",
+      "number": 1,
+      "season": 2,
+      "release_date": "2012-04-01"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Night Lands",
+      "number": 2,
+      "season": 2,
+      "release_date": "2012-04-08"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "What is Dead May Never Die",
+      "number": 3,
+      "season": 2,
+      "release_date": "2012-04-15"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Garden of Bones",
+      "number": 4,
+      "season": 2,
+      "release_date": "2012-04-22"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Ghost of Harrenhal",
+      "number": 5,
+      "season": 2,
+      "release_date": "2012-04-29"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Old Gods and the New",
+      "number": 6,
+      "season": 2,
+      "release_date": "2012-05-06"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "A Man Without Honor",
+      "number": 7,
+      "season": 2,
+      "release_date": "2012-05-13"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Prince of Winterfell",
+      "number": 8,
+      "season": 2,
+      "release_date": "2012-05-20"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Blackwater",
+      "number": 9,
+      "season": 2,
+      "release_date": "2012-05-27"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Valar Morghulis",
+      "number": 10,
+      "season": 2,
+      "release_date": "2012-06-03"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "You Win or You Die",
+      "number": 0,
+      "season": 2,
+      "release_date": "2012-03-25"
+    }
+  ],
+  "3": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Valar Dohaeris",
+      "number": 1,
+      "season": 3,
+      "release_date": "2013-03-31"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Dark Wings, Dark Words",
+      "number": 2,
+      "season": 3,
+      "release_date": "2013-04-07"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Walk of Punishment",
+      "number": 3,
+      "season": 3,
+      "release_date": "2013-04-14"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "And Now His Watch is Ended",
+      "number": 4,
+      "season": 3,
+      "release_date": "2013-04-21"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Kissed by Fire",
+      "number": 5,
+      "season": 3,
+      "release_date": "2013-04-28"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Climb",
+      "number": 6,
+      "season": 3,
+      "release_date": "2013-05-05"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Bear and the Maiden Fair",
+      "number": 7,
+      "season": 3,
+      "release_date": "2013-05-12"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Second Sons",
+      "number": 8,
+      "season": 3,
+      "release_date": "2013-05-19"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Rains of Castamere",
+      "number": 9,
+      "season": 3,
+      "release_date": "2013-06-02"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Mhysa",
+      "number": 10,
+      "season": 3,
+      "release_date": "2013-06-09"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "A Gathering Storm",
+      "number": 0,
+      "season": 3,
+      "release_date": "2013-03-08"
+    }
+  ],
+  "4": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Two Swords",
+      "number": 1,
+      "season": 4,
+      "release_date": "2014-04-06"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Lion and the Rose",
+      "number": 2,
+      "season": 4,
+      "release_date": "2014-04-13"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Breaker of Chains",
+      "number": 3,
+      "season": 4,
+      "release_date": "2014-04-20"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Oathkeeper",
+      "number": 4,
+      "season": 4,
+      "release_date": "2014-04-27"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "First of His Name",
+      "number": 5,
+      "season": 4,
+      "release_date": "2014-05-04"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Laws of Gods and Men",
+      "number": 6,
+      "season": 4,
+      "release_date": "2014-05-11"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Mockingbird",
+      "number": 7,
+      "season": 4,
+      "release_date": "2014-05-18"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Mountain and the Viper",
+      "number": 8,
+      "season": 4,
+      "release_date": "2014-06-01"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Watchers on the Wall",
+      "number": 9,
+      "season": 4,
+      "release_date": "2014-06-08"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Children",
+      "number": 10,
+      "season": 4,
+      "release_date": "2014-06-15"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Ice and Fire: A Foreshadowing",
+      "number": 0,
+      "season": 4,
+      "release_date": "2014-02-09"
+    }
+  ],
+  "5": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Wars to Come",
+      "number": 1,
+      "season": 5,
+      "release_date": "2015-04-12"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The House of Black and White",
+      "number": 2,
+      "season": 5,
+      "release_date": "2015-04-19"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "High Sparrow",
+      "number": 3,
+      "season": 5,
+      "release_date": "2015-04-26"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Sons of the Harpy",
+      "number": 4,
+      "season": 5,
+      "release_date": "2015-05-03"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Kill the Boy",
+      "number": 5,
+      "season": 5,
+      "release_date": "2015-05-10"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Unbowed, Unbent, Unbroken",
+      "number": 6,
+      "season": 5,
+      "release_date": "2015-05-17"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Gift",
+      "number": 7,
+      "season": 5,
+      "release_date": "2015-05-24"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Hardhome",
+      "number": 8,
+      "season": 5,
+      "release_date": "2015-05-31"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Dance of Dragons",
+      "number": 9,
+      "season": 5,
+      "release_date": "2015-06-07"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Mother's Mercy",
+      "number": 10,
+      "season": 5,
+      "release_date": "2015-06-14"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "A Day in the Life",
+      "number": 0,
+      "season": 5,
+      "release_date": "2015-02-08"
+    }
+  ],
+  "6": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Red Woman",
+      "number": 1,
+      "season": 6,
+      "release_date": "2016-04-24"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Home",
+      "number": 2,
+      "season": 6,
+      "release_date": "2016-05-01"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Oathbreaker",
+      "number": 3,
+      "season": 6,
+      "release_date": "2016-05-08"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Book of the Stranger",
+      "number": 4,
+      "season": 6,
+      "release_date": "2016-05-15"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Door",
+      "number": 5,
+      "season": 6,
+      "release_date": "2016-05-22"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Blood of My Blood",
+      "number": 6,
+      "season": 6,
+      "release_date": "2016-05-29"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Broken Man",
+      "number": 7,
+      "season": 6,
+      "release_date": "2016-06-05"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "No One",
+      "number": 8,
+      "season": 6,
+      "release_date": "2016-06-12"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Battle of the Bastards",
+      "number": 9,
+      "season": 6,
+      "release_date": "2016-06-19"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Winds of Winter (69 min)",
+      "number": 10,
+      "season": 6,
+      "release_date": "2016-06-26"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Inside Game of Thrones - The Best Seat in the House (5 min)",
+      "number": 0,
+      "season": 6,
+      "release_date": "2016-02-29"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "Inside Game of Thrones - Prosthetics (4 min)",
+      "number": 0,
+      "season": 6,
+      "release_date": "2016-03-29"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "The Story So Far",
+      "number": 0,
+      "season": 6,
+      "release_date": "2016-04-20"
+    },
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "18 Hours at the Paint Hall (30 min)",
+      "number": 0,
+      "season": 6,
+      "release_date": "2016-07-03"
+    }
+  ],
+  "7": [
+    {
+      "show": {
+        "title": "Game of Thrones",
+        "imdb_id": "tt0944947",
+        "epguide_name": "gameofthrones"
+      },
+      "title": "TBA",
+      "number": 1,
+      "season": 7,
+      "release_date": "2017-06-25"
+    }
+  ]
+}
