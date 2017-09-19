@@ -1,13 +1,11 @@
-﻿using epguides;
+﻿
+using epguides;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Net;
 
-namespace Part2
-{
-    class Program
     {
         static void Main(string[] args)
         {
